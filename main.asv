@@ -1,0 +1,6 @@
+clc;
+close all;
+clear all;
+
+Classify('abc.jpg');
+Classify('demo1.png');
